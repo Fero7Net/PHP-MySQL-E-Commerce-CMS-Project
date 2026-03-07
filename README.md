@@ -6,7 +6,7 @@
 
 **Mini Shop** – A dynamic e-commerce system with PDO foundation, fully responsive (mobile-friendly), and an admin panel.
 
-**Developer:** :contentReference[oaicite:1]{index=1}
+**Developer:** Ferhat ALKAN
 
 ## Key Features
 
@@ -81,7 +81,77 @@ Default admin password: admin123
 
 ## Screenshots
 
-> Aşağıdaki bölüm, repo kökünde `screenshots/` klasöründe bulunan ekran görüntüleriyle entegre olacak şekilde düzenlenmiştir. Dosya isimlerini değiştirmeden doğrudan çalışır.
+> The images are read from the repository `screenshots/` folder. Click any thumbnail to open the full-size image.
+
+### Main Pages
+
+<p align="center">
+
+<a href="screenshots/index.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/index.PNG" alt="Homepage" width="360" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+<a href="screenshots/products.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/products.PNG" alt="Products Page" width="360" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="screenshots/profile.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/profile.PNG" alt="User Profile" width="360" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+<a href="screenshots/about.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/about.PNG" alt="About Page" width="360" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+</p>
+
+---
+
+### Responsive Views
+
+<p align="center">
+
+<a href="screenshots/index_responsive.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/index_responsive.PNG" alt="Homepage Responsive" width="240" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+<a href="screenshots/profile_responsive.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/profile_responsive.PNG" alt="Profile Responsive" width="240" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+<a href="screenshots/contact_responsive.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/contact_responsive.PNG" alt="Contact Responsive" width="240" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+</p>
+
+---
+
+### Admin Panel
+
+<p align="center">
+
+<a href="screenshots/dashboard.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/dashboard.PNG" alt="Admin Dashboard" width="360" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+<a href="screenshots/backup.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/backup.PNG" alt="Backup System" width="360" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+</p>
+
+<p align="center" style="font-style:italic; color:#555; font-size:0.95em;">
+Click any image to view full size.
+</p>
+
+> Note: GitHub will open the linked images in a viewer when clicked. If some images appear blurry or cropped, ensure the original image resolution in `screenshots/` is sufficiently large.
+
+## Project Structure
 
 ### Main Pages
 
@@ -116,8 +186,6 @@ Default admin password: admin123
   <img src="screenshots/dashboard.PNG" alt="Admin Dashboard" width="48%">
   <img src="screenshots/backup.PNG" alt="Backup System" width="48%">
 </p>
-
-> Not: Eğer bazı görüntüler küçük/kırpık gözükürse, `screenshots/` klasöründeki resimlerin orijinal çözünürlüklerinin yeterli olduğundan emin ol. GitHub README görüntüleme boyutları, resim metadata'sı ve orijinal çözünürlüğe bağlı şekilde ölçeklenir.
 
 ## Project Structure
 
