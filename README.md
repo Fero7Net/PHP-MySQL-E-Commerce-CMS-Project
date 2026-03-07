@@ -187,3 +187,28 @@ For the backup module to work, the `extension=zip` line in `php.ini` must be ena
 - **URL:** Clean URLs via `.htaccess`: `/urun/slug`, `/kategori/slug`, `/sayfa/slug`.
 - **config.php:** If you set `$siteUrl = 'https://yourdomain.com';` in production, canonical, OG and sitemap URLs will be generated correctly.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/index.PNG" width="45%" alt="Homepage">
+  <img src="screenshots/index_responsive.PNG" width="45%" alt="Homepage Responsive">
+</p>
+
+<p align="center">
+  <img src="screenshots/products.PNG" width="45%" alt="Products">
+  <img src="screenshots/dashboard.PNG" width="45%" alt="Admin Dashboard">
+</p>
+
+<p align="center">
+  <img src="screenshots/profile.PNG" width="45%" alt="User Profile">
+  <img src="screenshots/profile_responsive.PNG" width="45%" alt="User Profile Responsive">
+</p>
+
+<p align="center">
+  <img src="screenshots/contact_responsive.PNG" width="45%" alt="Contact Responsive">
+  <img src="screenshots/about.PNG" width="45%" alt="About Page">
+</p>
+
+<p align="center">
+  <img src="screenshots/backup.PNG" width="45%" alt="Backup System">
+</p>
