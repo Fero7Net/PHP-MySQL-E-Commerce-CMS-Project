@@ -6,7 +6,7 @@
 
 **Mini Shop** – A dynamic e-commerce system with PDO foundation, fully responsive (mobile-friendly), and an admin panel.
 
-**Developer:** Ferhat ALKAN
+**Developer:** :contentReference[oaicite:1]{index=1}
 
 ## Key Features
 
@@ -79,7 +79,48 @@ Default admin password: admin123
 - Session cookies are set with `Secure` over HTTPS
 
 
+## Screenshots
+
+> Aşağıdaki bölüm, repo kökünde `screenshots/` klasöründe bulunan ekran görüntüleriyle entegre olacak şekilde düzenlenmiştir. Dosya isimlerini değiştirmeden doğrudan çalışır.
+
+### Main Pages
+
+<p align="center">
+  <img src="screenshots/index.PNG" alt="Homepage" width="48%">
+  <img src="screenshots/products.PNG" alt="Products Page" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/profile.PNG" alt="User Profile" width="48%">
+  <img src="screenshots/about.PNG" alt="About Page" width="48%">
+</p>
+
+---
+
+### Responsive Views
+
+<p align="center">
+  <img src="screenshots/index_responsive.PNG" alt="Homepage Responsive" width="45%">
+  <img src="screenshots/profile_responsive.PNG" alt="Profile Responsive" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/contact_responsive.PNG" alt="Contact Responsive" width="60%">
+</p>
+
+---
+
+### Admin Panel
+
+<p align="center">
+  <img src="screenshots/dashboard.PNG" alt="Admin Dashboard" width="48%">
+  <img src="screenshots/backup.PNG" alt="Backup System" width="48%">
+</p>
+
+> Not: Eğer bazı görüntüler küçük/kırpık gözükürse, `screenshots/` klasöründeki resimlerin orijinal çözünürlüklerinin yeterli olduğundan emin ol. GitHub README görüntüleme boyutları, resim metadata'sı ve orijinal çözünürlüğe bağlı şekilde ölçeklenir.
+
 ## Project Structure
+
 
 ```
 mini_shop/
