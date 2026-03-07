@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /migrations/
+Disallow: /backups/
+Disallow: /config.php
+
+Sitemap: http://localhost/mini_shop/sitemap.php
