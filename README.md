@@ -64,10 +64,10 @@
 To edit directly, change the `getenv()` default values in `config.php`.
 
 ## Default Login Credentials
-(for new registration/password change: min. 8 characters, 1 uppercase, 1 lowercase, 1 special character)<br>
-Default standard username: user<br>
-Default standard user password: user123<br>
-Default admin username: admin<br>
+(for new registration/password change: min. 8 characters, 1 uppercase, 1 lowercase, 1 special character)
+Default standard username: user
+Default standard user password: user123
+Default admin username: admin
 Default admin password: admin123
 
 - **Frontend:** `http://localhost/mini_shop`
