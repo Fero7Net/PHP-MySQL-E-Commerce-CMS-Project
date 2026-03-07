@@ -145,6 +145,10 @@ Default admin password: admin123
 
 <p align="center" style="font-style:italic; color:#555; font-size:0.95em;">
 </p>
+## Project Structure
+
+The following structure represents the main directory layout of the Mini Shop project.
+It includes frontend pages, admin panel modules, assets, database migrations, and backup storage.
 
 mini_shop/
 ├── index.php                 # Homepage
