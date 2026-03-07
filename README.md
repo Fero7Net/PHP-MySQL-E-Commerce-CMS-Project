@@ -147,35 +147,6 @@ Default admin password: admin123
 Click any image to view full size.
 </p>
 
-## Project Structure
-
-### Main Pages
-
-<p align="center">
-  <img src="screenshots/index.PNG" alt="Homepage" width="48%">
-  <img src="screenshots/products.PNG" alt="Products Page" width="48%">
-</p>
-
-<p align="center">
-  <img src="screenshots/profile.PNG" alt="User Profile" width="48%">
-  <img src="screenshots/about.PNG" alt="About Page" width="48%">
-</p>
-
----
-
-### Responsive Views
-
-<p align="center">
-  <img src="screenshots/index_responsive.PNG" alt="Homepage Responsive" width="45%">
-  <img src="screenshots/profile_responsive.PNG" alt="Profile Responsive" width="45%">
-</p>
-
-<p align="center">
-  <img src="screenshots/contact_responsive.PNG" alt="Contact Responsive" width="60%">
-</p>
-
----
-
 ### Admin Panel
 
 <p align="center">
