@@ -152,34 +152,34 @@ It includes frontend pages, admin panel modules, assets, database migrations, an
 
 mini_shop/
 ├── index.php                 # Homepage
-├── products.php              # Product listing (search, sort, pagination)
-├── product.php               # Product detail, comments
-├── product_comments_ajax.php  # Comment list AJAX endpoint
+├── products.php              # Product listing (search, sorting, pagination)
+├── product.php               # Product detail page and reviews
+├── product_comments_ajax.php # AJAX endpoint for loading comments
 ├── category.php              # Category page
-├── cart.php                  # Cart
+├── cart.php                  # Shopping cart
 ├── cart_remove_item.php      # Remove item from cart
-├── checkout.php              # Checkout
-├── order_success.php         # Order success
-├── login.php                 # Login
-├── register.php              # Register
-├── logout.php                # Logout (closes site + admin session)
+├── checkout.php              # Checkout process
+├── order_success.php         # Order success page
+├── login.php                 # User login
+├── register.php              # User registration
+├── logout.php                # Logout (terminates both site and admin sessions)
 ├── profile.php               # User profile
 ├── admin_profile.php         # Admin profile
-├── my_orders.php             # My orders
-├── about.php                 # About us
-├── contact.php               # Contact
-├── page.php                  # Static page
-├── add_to_cart_ajax.php      # AJAX add to cart
-├── config.php                # Database and settings
-├── functions.php             # Helper functions
+├── my_orders.php             # My orders page
+├── about.php                 # About page
+├── contact.php               # Contact page
+├── page.php                  # Static page handler
+├── add_to_cart_ajax.php      # AJAX add-to-cart endpoint
+├── config.php                # Database configuration and global settings
+├── functions.php             # Helper / utility functions
 ├── robots.txt                # Search engine rules (SEO)
 ├── sitemap.php               # XML sitemap (products, categories, pages)
-├── .htaccess                 # URL rewrite, security headers
-├── init.sql                  # Database setup
+├── .htaccess                 # URL rewriting and security headers
+├── init.sql                  # Database initialization
 ├── partials/
 │   ├── header.php
 │   ├── footer.php
-│   ├── product_card.php           # Shared product card partial
+│   ├── product_card.php           # Shared product card component
 │   ├── product_comments_list.php
 │   ├── products_ajax_content.php
 │   ├── index_popular_ajax_content.php
@@ -210,16 +210,16 @@ mini_shop/
 │   ├── page_content.php
 │   ├── logout.php            # Redirects to main logout.php
 │   └── partials/
-├── migrations/               # SQL migration files (one-time)
+├── migrations/               # SQL migration files (one-time execution)
 │   ├── migration_admin_addresses.sql
 │   ├── migrate_comments_parent_id.sql
 │   ├── migrate_comments_images.sql
 │   ├── migrate_slider_slides.sql
-│   └── migrate_users_full_name.sql  # full_name column for admin profile
+│   └── migrate_users_full_name.sql  # Adds full_name column for admin profile
 ├── products_img/             # Product images
-├── uploads/                  # Slider, comment images, etc.
-├── img/                      # Logo, favicon
-└── backups/                  # Backup ZIP files (created from panel)
+├── uploads/                  # Slider images, comment images, etc.
+├── img/                      # Logo and favicon
+└── backups/                  # Backup ZIP files generated from the admin panel
 ```
 
 ## Technical Details
