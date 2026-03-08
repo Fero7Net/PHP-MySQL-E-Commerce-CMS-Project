@@ -78,6 +78,72 @@ Varsayılan admin şifre admin123
 - Hata mesajları kullanıcıya gösterilmez
 - Session çerezleri HTTPS’te `Secure` ile ayarlanır
 
+## Ekran Görüntüleri
+
+### Anasayfalar
+
+<p align="center">
+
+<a href="screenshots/index.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/index.PNG" alt="Homepage" width="360" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+<a href="screenshots/products.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/products.PNG" alt="Products Page" width="360" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="screenshots/profile.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/profile.PNG" alt="User Profile" width="360" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+<a href="screenshots/about.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/about.PNG" alt="About Page" width="360" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+</p>
+
+---
+
+### Responsive Görünümler
+
+<p align="center">
+
+<a href="screenshots/index_responsive.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/index_responsive.PNG" alt="Homepage Responsive" width="240" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+<a href="screenshots/profile_responsive.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/profile_responsive.PNG" alt="Profile Responsive" width="240" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+<a href="screenshots/contact_responsive.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/contact_responsive.PNG" alt="Contact Responsive" width="240" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+</p>
+
+---
+
+### Admin Panel
+
+<p align="center">
+
+<a href="screenshots/dashboard.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/dashboard.PNG" alt="Admin Dashboard" width="360" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+<a href="screenshots/backup.PNG" target="_blank" rel="noopener">
+  <img src="screenshots/backup.PNG" alt="Backup System" width="360" style="margin:6px; border:1px solid #e6e6e6; border-radius:6px;">
+</a>
+
+</p>
+
+<p align="center" style="font-style:italic; color:#555; font-size:0.95em;">
+</p>
 
 ## Proje Yapısı
 
