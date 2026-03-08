@@ -146,7 +146,8 @@ Varsayılan admin şifre admin123
 </p>
 
 ## Proje Yapısı
-
+Aşağıdaki yapı, Mini Shop projesinin ana dizin düzenini göstermektedir.
+Bu yapı; frontend sayfaları, admin panel modülleri, varlık (assets) dosyaları, veritabanı migration dosyaları ve yedekleme depolama alanını içermektedir.
 ```
 mini_shop/
 ├── index.php                 # Anasayfa
