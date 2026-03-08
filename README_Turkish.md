@@ -64,10 +64,10 @@
 Doğrudan düzenlemek için `config.php` içindeki `getenv()` varsayılan değerlerini değiştirin.
 
 ## Varsayılan Giriş Bilgileri
-(yeni kayıt/şifre değişikliğinde: min. 8 karakter, 1 büyük, 1 küçük, 1 özel karakter)
-Varsayılan standart kullanıcı adı user 
-Varsayılan standart kullanıcı şifre user123
-Varsayılan admin kullanıcı adı admin
+(yeni kayıt/şifre değişikliğinde: min. 8 karakter, 1 büyük, 1 küçük, 1 özel karakter)<br>
+Varsayılan standart kullanıcı adı user <br>
+Varsayılan standart kullanıcı şifre user123<br>
+Varsayılan admin kullanıcı adı admin<br>
 Varsayılan admin şifre admin123
 
 - **Frontend:** `http://localhost/mini_shop`
