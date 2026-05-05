@@ -51,9 +51,11 @@ Demoyu görüntülemek için https://manroman.free.nf/ adresini ziyaret edin.
 
 ## Hızlı Kurulum
 
-### 1. Veritabanı Kurulumu
-- XAMPP’te **Apache** ve **MySQL**’i başlatın
-- phpMyAdmin’de mini_shop adında bir veritabanı oluşturup mini_shop.sql dosyasını içe aktarın
+### 1. Yerel Ortam ve Veritabanı Kurulumu
+- İndirdiğiniz ZIP dosyasını klasöre çıkartın, klasörün adını `mini_shop` olarak değiştirin ve XAMPP `htdocs` klasörünün içine atın.
+- XAMPP üzerinden **Apache** ve **MySQL** servislerini başlatın.
+- phpMyAdmin'de `mini_shop` adında bir veritabanı oluşturun ve `mini_shop.sql` dosyasını içe aktarın.
+- 
 ### 2. Ayarlar
 `config.php` varsayılan olarak ortam değişkenlerini kullanır; yoksa yerel değerler geçerlidir. İsteğe bağlı ortam değişkenleri:
 
