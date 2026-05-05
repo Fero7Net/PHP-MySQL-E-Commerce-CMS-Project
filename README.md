@@ -51,9 +51,11 @@ To view the demo, visit https://manroman.free.nf/
 
 ## Quick Setup
 
-### 1. Database Setup
-- Start **Apache** and **MySQL** in XAMPP
-- Create a database named mini_shop in phpMyAdmin and import the mini_shop.sql file
+### 1. Local Environment & Database Setup
+- Extract the downloaded ZIP file, rename the extracted folder to `mini_shop`, and move it into your XAMPP `htdocs` directory.
+- Start **Apache** and **MySQL** in XAMPP.
+- Create a database named `mini_shop` in phpMyAdmin and import the `mini_shop.sql` file.
+- 
 ### 2. Settings
 `config.php` uses environment variables by default; if not set, local values apply. Optional environment variables:
 
