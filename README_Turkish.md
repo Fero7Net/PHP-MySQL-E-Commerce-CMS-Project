@@ -55,7 +55,6 @@ Demoyu görüntülemek için https://manroman.free.nf/ adresini ziyaret edin.
 - İndirdiğiniz ZIP dosyasını klasöre çıkartın, klasörün adını `mini_shop` olarak değiştirin ve XAMPP `htdocs` klasörünün içine atın.
 - XAMPP üzerinden **Apache** ve **MySQL** servislerini başlatın.
 - phpMyAdmin'de `mini_shop` adında bir veritabanı oluşturun ve `mini_shop.sql` dosyasını içe aktarın.
-- 
 ### 2. Ayarlar
 `config.php` varsayılan olarak ortam değişkenlerini kullanır; yoksa yerel değerler geçerlidir. İsteğe bağlı ortam değişkenleri:
 
